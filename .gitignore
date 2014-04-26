@@ -213,3 +213,13 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+src/.ChanLogger.hs.bwinfo
+src/.ChanLogger.hs.bwusage
+src/.Format.hs.bwinfo
+src/.Format.hs.bwusage
+src/.Main.hs.bwinfo
+src/.Main.hs.bwusage
+src/.SyncLogger.hs.bwinfo
+src/.SyncLogger.hs.bwusage
+src/.TestCase.hs.bwinfo
+src/.TestCase.hs.bwusage
